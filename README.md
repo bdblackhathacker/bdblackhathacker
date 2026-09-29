@@ -6,7 +6,7 @@ ALL IMAGE HOSTS VERIFIED 200 OK (2026-09-29):
 - streak: streak-stats.demolab.com
 - contributions chart: ghchart.rshah.org (activity-graph + trophy hosts are 402 dead)
 - icons: skillicons.dev | counter: komarev.com | quote: quotes-github-readme.vercel.app
-- snake: needs Actions run once -> creates `output` branch, then live
+- snake: custom-built (snake/generate.py -> assets/snake-dark.svg), committed in-repo, always renders
 - spotify/wakatime: show setup badges until you connect them (their default URLs 404 without config)
 -->
 
@@ -188,11 +188,12 @@ alias ship='git add . && git commit -m "payload $(date +%s)" && git push && dock
 
 ### `> 04. $ tail -f /var/log/breaches.log`
 
-<!-- snake goes live after ONE Actions run: repo > Actions > "Generate snake" > Run workflow -->
+<!-- CUSTOM-BUILT SNAKE by bdblackhathacker: snake/generate.py -> assets/snake-dark.svg
+     Zero third-party service. Auto-refreshed weekly by .github/workflows/snake.yml -->
 
-<img src="https://raw.githubusercontent.com/bdblackhathacker/bdblackhathacker/output/github-snake-dark.svg" alt="snake eating contributions" />
+<img src="./assets/snake-dark.svg" alt="custom snake eating contributions" />
 
-<img src="https://ghchart.rshah.org/00ff41/bdblackhathacker" alt="contributions fallback (live now, snake after Actions run)" />
+<img src="https://ghchart.rshah.org/00ff41/bdblackhathacker" alt="contributions chart" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=00ff41&quote=It_is_not_the_tool._It_is_the_hand_that_wields_it.&author=bdblackhathacker" />
 
