@@ -1,15 +1,19 @@
 <!---
-BDBLACKHATHACKER // GRAY HACKER README v3.1 - FIXED SNAKE
-USERNAME: bdblackhathacker (already set everywhere)
-TODO (optional):
-1. Change portfolio/links to your own site if you have one
-2. Snake: .github/workflows/snake.yml is already created for you - just push + run Actions once
+BDBLACKHATHACKER // GRAY HACKER README v4.0
+ALL IMAGE HOSTS VERIFIED 200 OK (2026-09-29):
+- typing: readme-typing-svg.demolab.com
+- stats: github-stats-alpha.vercel.app (mirror, official vercel app was 503)
+- streak: streak-stats.demolab.com
+- contributions chart: ghchart.rshah.org (activity-graph + trophy hosts are 402 dead)
+- icons: skillicons.dev | counter: komarev.com | quote: quotes-github-readme.vercel.app
+- snake: needs Actions run once -> creates `output` branch, then live
+- spotify/wakatime: show setup badges until you connect them (their default URLs 404 without config)
 -->
 
 <div align="center">
 
 <!-- ══════════ TOP BAR ══════════ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+BDBLACKHATHACKER_PROTOCOL...;%3E+BYPASSING+FIREWALL....+ACCESS_GRANTED;%3E+whoami+%3A+bdblackhathacker;%3E+NO+SYSTEM+IS+SAFE" alt="hacker typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+BDBLACKHATHACKER_PROTOCOL...;%3E+BYPASSING+FIREWALL....+ACCESS_GRANTED;%3E+whoami+%3A+bdblackhathacker;%3E+NO+SYSTEM+IS+SAFE" alt="hacker typing" />
 
 <br/>
 
@@ -26,18 +30,18 @@ TODO (optional):
 <img src="https://img.shields.io/github/last-commit/bdblackhathacker/bdblackhathacker?style=flat&color=8b949e&label=LAST+PAYLOAD" />
 
 <pre>
- ____  ____  ____  _        _    ____ _  ___   _    _  _____ 
+ ____  ____  ____  _        _    ____ _  ___   _    _  _____
 | __ )|  _ \| __ )| |      / \  / ___| |/ / | | |  / \|_   _|
-|  _ \| | | |  _ \| |     / _ \| |   | ' /| |_| | / _ \ | |  
-| |_) | |_| | |_) | |___ / ___ \ |___| . \|  _  |/ ___ \| |  
-|____/|____/|____/|_____/_/   \_\____|_|\_\_| |_/_/   \_\_|  
-                                                            
- _   _    _    ____ _  _______ ____  
-| | | |  / \  / ___| |/ / ____|  _ \ 
+|  _ \| | | |  _ \| |     / _ \| |   | ' /| |_| | / _ \ | |
+| |_) | |_| | |_) | |___ / ___ \ |___| . \|  _  |/ ___ \| |
+|____/|____/|____/|_____/_/   \_\____|_|\_\_| |_/_/   \_\_|
+
+ _   _    _    ____ _  _______ ____
+| | | |  / \  / ___| |/ / ____|  _ \
 | |_| | / _ \| |   | ' /|  _| | |_) |
-|  _  |/ ___ \ |___| . \| |___|  _ < 
+|  _  |/ ___ \ |___| . \| |___|  _ <
 |_| |_/_/   \_\____|_|\_\_____|_| \_\
-                                     
+
         [ bdblackhathacker // 0x00FF41 ]
 </pre>
 
@@ -54,11 +58,14 @@ root@bdblackhathacker:~# whoami
 >>> bdblackhathacker — break to protect.
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bdblackhathacker&bg_color=0d1117&color=00ff41&line=00ff41&point=8b949e&area=true&hide_border=true" />
+<!-- live contribution chart (verified host, updates daily) -->
+<img src="https://ghchart.rshah.org/00ff41/bdblackhathacker" alt="contribution chart" />
 
 </div>
 
 ---
+
+<div align="center">
 
 ### `> 01. $ whoami --decrypt`
 
@@ -102,21 +109,26 @@ $ uptime --realtime
 
 </details>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### `> 02. $ live_system_monitor --real-time`
 
 > These widgets update **in real-time** on every page load. No cron. No fake screenshots.
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bdblackhathacker&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=bdblackhathacker&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=bdblackhathacker&theme=dark&background=0D1117&border=30363D&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdblackhathacker&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&text_color=8b949e&hide_border=false&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=bdblackhathacker&theme=matrix&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=3&rank=SSS,SS,S,AAA,AA,A" />
+<br/>
 
-</div>
+<!-- live GitHub counters, pulled from GitHub API on every load -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdblackhathacker&query=$.public_repos&label=PUBLIC_REPOS&color=00ff41&labelColor=0d1117&style=flat" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdblackhathacker&query=$.followers&label=FOLLOWERS&color=8b949e&labelColor=0d1117&style=flat" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdblackhathacker&query=$.following&label=FOLLOWING&color=30363d&labelColor=0d1117&style=flat" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bdblackhathacker&query=$.public_gists&label=GISTS&color=00ff41&labelColor=0d1117&style=flat" />
 
 | NODE | LOAD | STATUS |
 |------|------|--------|
@@ -126,11 +138,17 @@ $ uptime --realtime
 | `opsec` | ![opsec](https://img.shields.io/badge/OPSEC-SHADOW-30363d?style=flat&labelColor=0d1117) | VPN + MAC spoof ON |
 | `targets.pwned` | ![pwned](https://img.shields.io/badge/PWNED-1337-ff0000?style=flat&labelColor=0d1117) | all CTFs owned |
 
+</div>
+
+<!-- re-add when official stats app recovers from 503:
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdblackhathacker&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&text_color=8b949e&langs_count=8" />
+-->
+
 ---
 
-### `> 03. $ arsenal --list-weapons`
-
 <div align="center">
+
+### `> 03. $ arsenal --list-weapons`
 
 **OFFENSE 🩶 // no one shows this stack**
 
@@ -151,6 +169,8 @@ $ uptime --realtime
 
 </div>
 
+<div align="center">
+
 ```bash
 # my daily zero-day toolkit — copy it, I dare you
 alias recon='nmap -sS -sV -sC -p- -T4 --min-rate 5000 $1'
@@ -160,29 +180,34 @@ alias tunnel='ssh -D 9050 -C -N -f user@shadow-node'
 alias ship='git add . && git commit -m "payload $(date +%s)" && git push && docker build -t op . && fly deploy'
 ```
 
+</div>
+
 ---
-
-### `> 04. $ tail -f /var/log/breaches.log`
-
-<!-- UNIQUE: live contribution snake + quote engine. Nobody combines gray-hat log style with these. -->
 
 <div align="center">
 
-<!-- FIXED SNAKE: works after you add .github/workflows/snake.yml (created for you below).
-     File name MUST match workflow output: github-snake-dark.svg -->
+### `> 04. $ tail -f /var/log/breaches.log`
+
+<!-- snake goes live after ONE Actions run: repo > Actions > "Generate snake" > Run workflow -->
 
 <img src="https://raw.githubusercontent.com/bdblackhathacker/bdblackhathacker/output/github-snake-dark.svg" alt="snake eating contributions" />
 
-<!-- instant fallback (shows even before workflow first run) -->
-<img src="https://github.com/bdblackhathacker/bdblackhathacker/blob/output/github-snake-dark.svg?raw=true" alt="snake fallback" width="0" height="0" />
+<img src="https://ghchart.rshah.org/00ff41/bdblackhathacker" alt="contributions fallback (live now, snake after Actions run)" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=00ff41&quote=It_is_not_the_tool._It_is_the_hand_that_wields_it.&author=bdblackhathacker" />
 
-<!-- Spotify + WakaTime realtime row -->
-<img width="49%" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" alt="now playing" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bdblackhathacker&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&text_color=8b949e&layout=compact" alt="coding time" />
+<br/>
+
+<!-- connect Spotify + WakaTime to replace these with live players:
+     Spotify: deploy https://github.com/novatorem/novatorem -> swap URL below
+     WakaTime: https://wakatime.com + enable "display code stats" in github-readme-stats -->
+
+<img src="https://img.shields.io/badge/🎧_SPOTIFY-connect_novatorem_to_go_live-1DB954?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⌨️_WAKATIME-connect_to_go_live-8b949e?style=for-the-badge&labelColor=0d1117" />
 
 </div>
+
+<div align="center">
 
 ```console
 [2026-09-29 04:13:37] INTRUSION ... payload deployed to production ... SUCCESS (12ms)
@@ -192,7 +217,11 @@ alias ship='git add . && git commit -m "payload $(date +%s)" && git push && dock
 [2026-09-29 03:41:22] DEFENSE ..... hardened nginx, blocked 1,204 bot hits, fail2ban ON
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ### `> 05. $ ls ~/blackhat-ops/`
 
@@ -213,11 +242,13 @@ alias ship='git add . && git commit -m "payload $(date +%s)" && git push && dock
 
 </details>
 
+</div>
+
 ---
 
-### `> 06. $ ./decrypt_contact.sh`
-
 <div align="center">
+
+### `> 06. $ ./decrypt_contact.sh`
 
 [![Portfolio](https://img.shields.io/badge/☠️_ENTER_THE_VOID-GITHUB-00ff41?style=for-the-badge&labelColor=0d1117)](https://github.com/bdblackhathacker)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/bdblackhathacker)
@@ -244,14 +275,6 @@ $ echo "aGVsbG8sIGZlbGxvdyBoYWNrZXIuIHlvdSBmb3VuZCB0aGUgZWFzdGVyIGVnZy4=" | base
         BDBLACKHATHACKER // LEAVE NO TRACE // 0x00FF41
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%24+connection+terminated...;%24+logs+wiped...;%24+see+you+in+the+shadows_+" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%24+connection+terminated...;%24+logs+wiped...;%24+see+you+in+the+shadows_+" />
 
 </div>
-
-<!---
-SNAKE ALREADY FIXED - file: .github/workflows/snake.yml
-If snake still blank: go to your repo > Actions > "Generate snake" > Run workflow,
-then wait 1 min and refresh. Branch `output` must exist.
-Old broken name was `github-contribution-grid-snake-dark.svg` - now correct:
-`github-snake-dark.svg`
--->
